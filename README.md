@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-### 📞Мои контакты:
+### 📧 Мои контакты:
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
