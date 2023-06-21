@@ -3,7 +3,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAzaWIwNzU3ZmdnNWQxMmV6NjkwMmNlZHp6cXIxeWhhZWNsaTAweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" width="30">
+<img src="https://media2.giphy.com/media/KDYB0cH4HW8xc3VIAx/giphy.gif?cid=ecf05e4774vw3wyursm39etf93ywu2np4ohhe9xblqwztvg6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
