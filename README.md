@@ -9,10 +9,5 @@
   </a>
 </h1>
 
-<ul> Мой стек технологий:
-  <li>
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  </li>
-</ul>
-<p>
-</p>
+### Мой стек технологий
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
