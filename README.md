@@ -15,25 +15,6 @@
 * 💻 Учусь писать чистый код
 * 👨‍🎓 Каждый день осваиваю новые технологии
 
-## ✉️ Мои контакты:
-<a href="https://t.me/shnd3r">
-  
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-</a>
-
-<a href="https://www.instagram.com/d.shnder/">
-  
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-</a>
-
-<a href="https://www.linkedin.com/in/danila-shnayder-4392a227b/">
-  
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-</a>
-
 ## 📚 Мой стек технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +29,6 @@
 
 
 ## ⭐ Моя статистика:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shnd3r)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
