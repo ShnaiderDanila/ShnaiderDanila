@@ -11,13 +11,28 @@
 
 
 ## ✉️ Мои контакты:
-<a href="https://git.io/typing-svg">
+<a href="https://t.me/shnd3r">
   
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  
+
 </a>
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<a href="https://www.instagram.com/d.shnder/">
+  
+  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+</a>
+
+
+<a href="in/danila-shnayder-4392a227b">
+  
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>
+
+
+
+
 
 
 ## 📚 Мой стек технологий:
