@@ -8,3 +8,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Начинающий+Frontend-разработчик" alt="Typing SVG" />
   </a>
 </h1>
+
+<ul> Мой стек технологий:
+  <li>
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  </li>
+</ul>
+<p>
+</p>
