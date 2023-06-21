@@ -3,6 +3,8 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAzaWIwNzU3ZmdnNWQxMmV6NjkwMmNlZHp6cXIxeWhhZWNsaTAweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" width="30">
+
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Начинающий+Frontend-разработчик" alt="Typing SVG" />
