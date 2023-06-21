@@ -22,4 +22,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### ⭐ Моя статистика:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shnd3r)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnd3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shnd3r)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnd3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![codewars](https://www.codewars.com/users/Shnd3r/badges/large)](https://www.codewars.com/users/Shnd3r)
