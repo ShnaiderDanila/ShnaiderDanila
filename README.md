@@ -9,8 +9,7 @@
   </a>
 </h1>
 
-<h3>📞Мои контакты:</h3>
-
+### 📞Мои контакты:
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -24,8 +23,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br>
 
-<h3>📚 Мой стек технологий:</h3>
-
+### 📚 Мой стек технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,14 +35,10 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<h3>⭐ Моя статистика:</h3>
-
+### ⭐ Моя статистика:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shnd3r)](https://github.com/anuraghazra/github-readme-stats) 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shnd3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4>🏆 CodeWars</h4>
-
+### 🏆 CodeWars
 [![codewars](https://www.codewars.com/users/Shnd3r/badges/large)](https://www.codewars.com/users/Shnd3r)
