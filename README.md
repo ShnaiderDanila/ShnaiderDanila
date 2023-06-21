@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-<h3>📞Мои контакты:</h3><br>
+<h3>📞Мои контакты:</h3>
 
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -22,7 +22,7 @@
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
 
 <h3>📚 Мой стек технологий:</h3>
 
