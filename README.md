@@ -9,7 +9,6 @@
   </a>
 </h1>
 
-
 ## ✉️ Мои контакты:
 <a href="https://t.me/shnd3r">
   
@@ -23,17 +22,11 @@
 
 </a>
 
-
 <a href="https://www.linkedin.com/in/danila-shnayder-4392a227b/">
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </a>
-
-
-
-
-
 
 ## 📚 Мой стек технологий:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
