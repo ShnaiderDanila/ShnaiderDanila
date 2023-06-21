@@ -1,5 +1,5 @@
 <h1 align="center">
-  Всем привет я <a href="https://daniilshat.ru/" target="_blank">Данила</a> 
+  Всем привет я <a href="https://github.com/Shnd3r" target="_blank">Данила</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
