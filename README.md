@@ -24,7 +24,7 @@
 </a>
 
 
-<a href="in/danila-shnayder-4392a227b">
+<a href="https://www.linkedin.com/in/danila-shnayder-4392a227b/">
   
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
